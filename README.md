@@ -78,12 +78,3 @@ Repository Structure
 
 Statistics, Econometrics, Quantitative Research, Agricultural Economics, Agricultural Statistics, Quantile Regression, Logistic Regression, Data Analysis, Predictive Modeling, Food Security, Wheat Production, Farm Profitability, Post-Harvest Losses, Egypt
 
-Author
-
-Reham Mohamed
-
-B.Sc. Statistics
-
-Faculty of Economics and Political Science
-
-Cairo University
