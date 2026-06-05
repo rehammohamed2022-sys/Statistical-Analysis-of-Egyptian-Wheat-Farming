@@ -72,8 +72,6 @@ Repository Structure
 
 /code        → R scripts and statistical analyses
 
-/figures     → Graphs and visualizations
-
 /report      → Final project report
 
  Keywords
